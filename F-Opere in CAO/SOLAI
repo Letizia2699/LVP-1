@@ -1,0 +1,310 @@
+# SOLAI
+
+Requisiti:
+1. Resistenza: capacità dell'elemento di sopportare i carichi agenti su di esso (peso proprio, sovraccarichi permanenti ed accidentali)
+1. Modesta deformabilità: capacità di deformarsi con frecce contenute entro limiti accettabili
+1. Minimo spessore
+1. Peso ridotto: per contenere il più possibile i carichi trasmessi alle strutture portanti ed alle fondazioni
+1. Superficie di intradosso piana: per semplificare le operazioni di finitura
+1. Resistenza al fuoco: capacità di sopportare elevate temperature, a seguito di sviluppo di eventuali incendi, per un periodo sufficientemente lungo per permettere l'evacuazione dei locali
+1. Buone proprietà isolanti, termiche ed acustiche
+1. Rapida realizzazione
+1. Basso costo: ottenuto attraverso un buon sfruttamento dei materiali impiegati, un ridotto impiego di manodopera, di opere provvisionali e di sostegno.
+
+Si sottolinea che alcuni dei requisiti elencati sono tra loro in contrasto, come ad esempio la modesta deformabilità con il minimo spessore, il peso modesto con le proprietà acustiche e termiche. Sarà cura del progettista stabilire i giusti compromessi.
+
+NORMATIVA
+
+Di seguito si riportano i paragrafi più significativi delle Norme complementari relative ai solai (punto 7 Parte prima del D.M. 9/1/96).
+
+7.0. Generalità e classificazione solai.
+
+a) Generalità
+
+Nel presente capitolo sono trattati i solai realizzati esclusivamente in c.a. o c.a.p. o misti in c.a. e c.a.p.
+e blocchi in laterizio od in altri materiali. Vengono considerati sia i solai eseguiti in opera che quelli formati
+dall’associazione di elementi prefabbricati.
+Per tutti i solai valgono le prescrizioni già date nei capitoli precedenti per le opere in c.a. e c.a.p. con
+particolare riguardo alle prescrizioni relative agli elementi inflessi.
+In particolare si dovrà disporre agli appoggi dei solai un’armatura inferiore incorporata o aggiuntiva,
+convenientemente ancorata, in grado di assorbire uno sforzo di trazione pari al taglio.
+Ad esse devono aggiungersi od integrarsi le norme complementari indicate nel seguito.
+
+b) Classificazione.
+
+I) Solai in getto pieno: in c.a. od in c.a.p.
+
+II) Solai misti in c.a., c.a.p., e blocchi interposti di alleggerimento collaboranti e non, in laterizio (vedi 7.1.)
+od altro materiale (vedi 7.2.).
+
+III) Solai realizzati dall’associazione di elementi in c.a. e c.a.p. prefabbricati con unioni e/o getti di
+completamento.
+
+7.1. Norme complementari relative ai solai misti di c.a. e c.a.p. e blocchi forati in laterizio.
+
+7.1.1. CLASSIFICAZIONE.
+
+I solai misti in cemento armato normale e precompresso e blocchi forati in laterizio si distinguono nelle
+seguenti categorie:
+
+a) solai con blocchi aventi funzione principale di alleggerimento;
+
+b) solai con blocchi aventi funzione statica in collaborazione con il conglomerato.
+
+7.1.2. PRESCRIZIONI GENERALI.
+
+I blocchi di cui al punto 7.1.1.b) devono essere conformati in modo che nel solaio in opera sia
+assicurata con continuità la trasmissione degli sforzi dall’uno all’altro elemento.
+Nel caso si richieda al laterizio il concorso alla resistenza agli sforzi tangenziali, si devono usare
+elementi monoblocco disposti in modo che nelle file adiacenti, comprendenti una nervatura di conglomerato,
+i giunti risultino sfalsati tra loro. In ogni caso, ove sia prevista una soletta di conglomerato staticamente
+integrativa di altra in laterizio, quest’ultima deve avere forma e finitura tali da assicurare la solidarietà ai fini
+della trasmissione degli sforzi tangenziali.
+Per entrambe le categorie il profilo dei blocchi delimitanti la nervatura di conglomerato da gettarsi in
+opera non deve presentare risvolti che ostacolino il deflusso di calcestruzzo e restringano la sezione delle
+nervature stesse sotto i limiti stabiliti in 7.1.4.5.
+
+7.1.4. PROGETTAZIONE.
+
+7.1.4.1. Verifiche.
+
+Le tensioni limite in esercizio per combinazioni rare nel conglomerato e nelle armature metalliche sono
+quelle prescritte al precedente punto 4.3.2.
+Per il laterizio, nei solai di cui al punto 7.1.1.b), la compressione in esercizio per combinazioni rare non
+deve superare 6,5 N/mm2
+ per gli sforzi agenti nella direzione dei fori, e 4 N/mm2
+ per sforzi in direzione
+normale ad essi, sempre che, in questo secondo caso, il tipo costruttivo lo giustifichi.
+Sono anche ammesse verifiche agli stati limite fondati su prove di strutture o di elementi campioni di
+serie secondo quanto indicato al punto 4.4.1.
+
+7.1.4.2. Spessore minimo dei solai.
+
+Lo spessore dei solai a portata unidirezionale che non siano di semplice copertura non deve essere
+minore di 1/25 della luce di calcolo ed in nessun caso minore di 12 cm.
+Per i solai costituiti da travetti precompressi e blocchi interposti il predetto limite può scendere ad 1/30.
+Le deformazioni devono risultare compatibili con le condizioni di esercizio del solaio e degli elementi
+costruttivi ed impiantistici ad esso collegati.
+
+7.1.4.3. Modulo elastico di calcolo.
+
+Nel calcolo delle reazioni iperstatiche il modulo di elasticità del laterizio, in mancanza di determinazioni
+dirette, può assumersi pari a 20 kN/mm2.
+
+7.1.4.4. Spessore minimo della soletta.
+
+Nei solai di cui al punto 7.1.1.a) lo spessore minimo del calcestruzzo della soletta di conglomerato non
+deve essere minore di 4 cm.
+Nei solai di cui al punto 7.1.1.b), può essere omessa la soletta di calcestruzzo e la zona rinforzata di
+laterizio, per altro sempre rasata con calcestruzzo, può essere considerata collaborante e deve soddisfare i
+seguenti requisiti:
+- possedere spessore non minore di 1/5 dell’altezza, per solai con altezza fino a 25 cm, non minore di 5 cm
+per solai con altezza maggiore;
+- avere area effettiva dei setti e delle pareti, misurata in qualunque sezione normale alla direzione dello
+sforzo di compressione, non minore del 50% della superficie lorda.
+
+7.1.4.5. Larghezza ed interasse delle nervature.
+
+La larghezza minima delle nervature in calcestruzzo per solai con nervature gettate o completate in
+opera non deve essere minore di 1/8 dell’interasse e comunque non inferiore a 8 cm.
+Nel caso di produzione di serie in stabilimento di pannelli di solaio completi controllati come previsto al
+punto 7.1.4.1. il predetto limite minimo potrà scendere a 5 cm.
+L’interasse delle nervature non deve in ogni caso essere maggiore di 15 volte lo spessore medio della
+soletta. Il blocco interposto deve avere dimensione massima inferiore a 52 cm.
+Per i solai di categoria b) possono considerarsi appartenenti alle nervature ai fini del calcolo le pareti di
+laterizio formanti cassero, sempre che sia assicurata l’aderenza fra i due materiali. La larghezza collaborante
+va determinata in conformità al punto 5.5; per produzioni di serie in stabilimento di pannelli solaio completi, la
+larghezza collaborante potrà essere determinata con la sperimentazione di cui al punto 4.4.
+
+7.1.4.6. Armatura trasversale.
+
+Per i solai con nervatura gettata o completata in opera e di luce superiore a 4,50 m o quando sia
+sensibile il comportamento a piastra o quando agiscano carichi concentrati che incidano in misura
+considerevole sulle sollecitazioni di calcolo, si deve prevedere all’estradosso una soletta gettata in opera di
+spessore non inferiore a 4 cm munita di adeguata armatura delle solette o nelle eventuali nervature pari
+almeno a 3 Ø 6 al metro o al 20% di quella longitudinale nell’intradosso del solaio.
+Particolare attenzione deve essere dedicata alla sicurezza al distacco di parti laterizie, specialmente in
+dipendenza di sforzi trasversali anche di carattere secondario.
+In assenza di soletta in calcestruzzo (solaio rasato) è necessaria l’adozione di almeno una nervatura
+trasversale per luci superiori a 4,5 m. Nel caso di produzione di serie in stabilimento di pannelli solaio
+completi, la capacità di ripartizione trasversale potrà essere garantita anche a mezzo di altri dispositivi la cui
+efficacia è da dimostrarsi con idonee prove sperimentali.
+
+7.1.4.7. Armatura longitudinale.
+
+L’armatura longitudinale deve essere superiore a:
+
+As min ≥ 0,07 h cm2
+ al metro
+
+ove h è l’altezza del solaio espressa in cm.
+
+7.1.4.8. Armatura per il taglio.
+
+Nelle condizioni previste in 4.2.2.2. può non disporsi armatura per il taglio.
+Quando invece occorre far ricorso ad una armatura per il taglio, non è ammesso tener conto della
+collaborazione delle pareti laterali di laterizio ai fini della valutazione della sollecitazione tangenziale τcl.
+
+7.2. Norme complementari relative ai solai misti di c.a. e c.a.p. e blocchi diversi dal laterizio
+
+7.2.1. CLASSIFICAZIONE E PRESCRIZIONI GENERALI
+
+I blocchi con funzione principale di alleggerimento, possono essere realizzati anche con materiali diversi
+dal laterizio (calcestruzzo leggero di argilla espansa, calcestruzzo normale sagomato, materie plastiche,
+elementi organici mineralizzati ecc.).
+Il materiale dei blocchi deve essere stabile dimensionalmente.
+Ai fini statici si distinguono due categorie di blocchi per solaio:
+- blocchi collaboranti;
+- blocchi non collaboranti.
+
+Salvo contraria indicazione nel seguito valgono le prescrizioni generali e le prescrizioni di progettazione
+e di esecuzione riportate in 7.1.
+
+7.2.2. BLOCCHI COLLABORANTI
+
+Devono avere modulo elastico superiore a 8 kN/mm2
+ ed inferiore a 25 kN/mm2.
+
+ 7.2.3. BLOCCHI NON COLLABORANTI
+
+ Devono avere modulo elastico inferiore ad 8 kN/mm2 e svolgere funzioni di solo alleggerimento.
+ Solai con blocchi non collaboranti richiedono necessariamente una soletta di ripartizione, dello spessore
+ minimo di 4 cm, armata opportunamente e dimensionata per la flessione trasversale. Il profilo e le dimensioni
+ dei blocchi devono essere tali da soddisfare le prescrizioni dimensionali imposte nel paragrafo 7.1. per i
+ blocchi in laterizio non collaboranti.
+
+ 7.2.4. RESISTENZA AL PUNZONAMENTO
+
+In assenza di cassero continuo inferiore durante la fase di armatura e getto i blocchi di qualunque tipo
+devono resistere ad un carico concentrato, applicato al centro della faccia superiore (su un’area di 5×5 cm2
+), non inferiore a 1,5 kN.
+
+7.2.6. SPESSORI MINIMI
+
+Per tutti i solai, così come per i componenti collaboranti, lo spessore delle singole parti di calcestruzzo
+contenenti armature di acciaio non potrà essere inferiore a 4 cm.
+
+
+
+### Armature e particolari costruttivi
+
+#### Disposizione armature inferiori
+
+Per la corretta disposizione delle armature inferiori si forniscono i seguenti suggerimenti:
+
+- il numero di ferri da disporre in un travetto deve essere compatibile con la sua larghezza e con gli interferri richiesti dalle norme. In genere non si dispongono più di due ferri per travetto. A tal proposito si riportano le indicazioni fornite dal D.M. 9/1/96 al punto 6.1.4: La superficie dell’armatura resistente, comprese le staffe, deve distare dalle facce esterne del
+conglomerato di almeno 0,8 cm nel caso di solette, setti e pareti, e di almeno 2 cm nel caso di travi e pilastri.
+Tali misure devono essere aumentate, e rispettivamente portate a 2 cm per le solette e a 4 cm per le travi ed
+i pilastri, in presenza di salsedine marina, di emanazioni nocive, od in ambiente comunque aggressivo.
+Copriferri maggiori possono essere utilizzati in casi specifici (ad es. opere idrauliche).
+Le superfici delle barre devono essere mutuamente distanziate in ogni direzione di almeno una volta il
+diametro delle barre medesime e, in ogni caso, non meno di 2 cm. Si potrà derogare a quanto sopra
+raggruppando le barre a coppie ed aumentando la mutua distanza minima tra le coppie ad almeno 4 cm.
+Per le barre di sezione non circolare si deve considerare il diametro del cerchio circoscritto.
+- l'armatura va estesa per tutta la campata per un quantitativo non inferiore a quanto riportato nelle norme (D.M. 9/1/96 punto 7.1.4.7). Nelle zone tese l'armatura non dovrà essere inferiore, per barre ad aderenza migliorata, allo 0,15% della sezione di conglomerato, come indicato nel D.M. 9/1/96 al punto 5.3.1
+- volendo ridurre il quantitativo di acciaio impiegato si possono adottare le disposizioni tipo indicate nella seguente figura. Si mette in evidenza che in entrambi i casi le armature sono interrotte in corrispondenza degli appoggi per facilitare la messa in opera e/o la prefabbricazione dei travetti. Le armature dovranno essere prolungate oltre la sezione nella quale non sono più necessarie per una lunghezza non inferiore a quella richiesta nelle norme (punto 5.3.3 del D.M. 9/1/96)
+
+[Immagine26]
+
+- in corrispondenza degli appoggi terminali le armature devono essere efficacemente ancorate, con una piegatura di circa 120°. L'armatura in tale sezione deve essere in grado di assorbire uno sforzo di trazione pari allo sforzo di taglio presente
+- le norme (punto 6.1.4 del D.M 9/1/96) indicano in 0,8 cm la distanza minima dell'armatura dalle facce esterne del conglomerato. Tale distanz aè aumentata a 2 cm in ambiente aggressivo. Si mette in evidenza che il copriferro minimo sopra riportato, nella pratica di cantiere, è difficilemnte realizzabile in modo uniforme su tutto il travetto, risulta quindi adottare in sede di progettazione copriferri leggermente superiori. Nel caso di impiego di barre d'armatura con diametro maggiore di 12 mm ed inferiore a 20 mm si suggerisce di adottare un copriferro non inferiore a 1,5 cm, per barre di diametro maggiore di 20 mm è opportuno adottare un copriferro di almeno 2 cm. Lo spessore del copriferro potrebbe essere maggiore di quello minimo previsto dalle norme per garantire la resistenza al fuoco del solaio
+- nei solai realizzati con travetti prefabbricati con fondello in laterizio e traliccio metallico, le armature si posizionano tra i correnti inferiori dei tralicci direttamente in sede di prefabbricazione. Qualora sia necessario garantire un copriferro più importante per la resistenza al fuoco è possibile disporre le armature metalliche in cantiere, prima del getto di completamento. In tal caso non può essere considerata resistente l'armatura costituita dai correnti inferiori dei tralicci.
+
+#### Disposizione armature superiori
+
+Le armature superiori dei travetti vengono di solito posizionate nelle sole zone soggette a momenti negativi. Nell'immagine seguente sono riportate le più consuete disposizioni. Esse permettono una riduzione del quantitativo di acciaio rispetto a disposizioni con ferri di uguale lunghezza e diametro.
+
+[Immagine27]
+
+a) barre di lunghezza differente;
+b) barre di uguale lunghezza
+
+Per quanto riguarda il quantitivo di armatura da disporre nelle zone tese occorre fare riferimento al punto 5.3.1 del già citato D.M.
+
+In corrispondenza degli appoggi di estremità, qualora non siano presenti aggetti in continuità, si dispongono armature efficacemente ancorate, come riportato nella seguente immagine.
+
+[Immagine28]
+
+a) appoggio su trave emergente;
+b) appoggio su trave a spessore di limitata larghezza
+
+#### Armature a taglio
+
+In relazione a quanto indicato al punto 7.1.4.8 del D.M. 9/1/96 non si dispongono armature a taglio quando il valore della tensione tangenziale non supera il valore di τc0 definito al punto 3.1.4 del D.M. in funzione della resistenza caratteristica del calcestruzzo. Quando la tensione tangenziale supera il suddetto valore occorre predisporre idonee armature a taglio. Questa circostanza risulta onerosa, quindi si evita che la tensione tangenziale nei travetti superi la τc0 mediante i seguenti provvedimenti:
+- aumento della larghezza del travetto
+- inserimento di adeguate zone piene
+- aumento dell'altezza del solaio.
+
+Può ritenersi accettabile prevedere armature a taglio (staffe) solo per solai gettati in opera di luce notevole e/o sottoposti a carichi elevati. I ferri piegati talvolta previsti nei travetti non hanno la funzione di assorbire gli sforzi taglianti, ma quella di deviare le armature dalla zona inferiore a quella superiore. Qualora si volessero considerare come armatura a taglio andrebbero disposti in prossimità degli appoggi, dove lo sforzo di taglio è massimo, e dovrebbero essere integrate da staffe nei quantitativi minimi previsti al punto 5.3.2 del D.M. 9/1/96.
+
+#### Armature di ripartizione
+
+Nei casi indicati al punto 7.1.4.6 del D.M. occorre prevedere un'armatura di ripartizione che può essere costituita da:
+- armature disposte nella soletta superiore
+- travetti ortogonali alla tessitura del solaio
+
+In genere l'armatura della soletta è costituita da ferri dritti, disposti ortogonalmente ai travetti del solaio, nei quantitativi richiesti dalle norme (20% di quella longitudinale disposta nell'intradosso del solaio, con un minimo di 3 barre con diametro da 6 mm ogni metro). E' possibile l'impiego, in luogo dei ferri dritti, di reti elettrosaldate a maglia quadrata. E' consigliabile disporre nella soletta superiore, anche nei casi non espressamente richiesti dalle norme, un'armatura avente anche la funzione di ridurre gli effetti di ritiro del calcestruzzo. In tutti i casi in cui sia presente un'armatura nella soletta superiore si dovrà evitare che essa venga a contatto con i blocchi di alleggerimento mediante l'uso di appositi distanziatori.
+
+#### Sbalzi
+
+La struttura degli aggetti viene realizzata:
+- a soletta piena, con intradosso inclinato o con intradosso orizzontale
+
+[Immagine29]
+
+- alleggerita con soletta superiore
+
+[Immagine30]
+
+- alleggerita con soletta inferiore
+
+[Immagine31]
+
+In entrambe le soluzioni con blocchi di alleggerimento è opportuno prevedere un cordolo armato nella zona di estremità dello sbalzo. Si sottolinea la necessità di verificare, per sbalzi di luce notevole, l'entità delle deformazioni (di natura elastica e viscosa), tale problema acquista importanza qualora insistano sugli sbalzi tamponature. Un inconveniente è la formazione di lesioni, che sono dovute alle deformazioni viscose dello sbalzo e che possono essere evitate realizzando un giunto o un distacco.
+
+In relazione alla tessitura dello sbalzo rispetto a quella del solaio retrostante si possono individuare le seguenti tipologie:
+- con tessitura continua
+- senza continuità di tessitura
+
+##### Sbalzi in continuità
+
+I travetti dello sbalzo sono orditi in continuità con quelli della campata di solaio retrostante. Di seguito si riportano le disposizioni delle armature:
+
+[Immagine32]
+
+L'immagine rappresenta un esempio di sbalzo in continuità senza ribassamento, mentre quella riportata di seguito fa riferimento ad uno sbalzo in continuità con ribassamento.
+
+[Immagine33]
+
+##### Sbalzi senza continuità di tessitura
+
+Il momento flettente, presente sullo sbalzo in corrispondenza della sezione di incastro con la trave di bordo, sollecita flessionalmente il solaio a ridosso della trave. La trazione impegna le armature superiori trasversali all'orditura del solaio, mentre la compresione sollecita gli elementi presenti all'intradosso del solaio, controsoletta o laterizio.
+
+[Immagine34]
+
+##### Accorgimenti costruttivi in presenza di accentuati funzionamenti trasversali
+
+Si verificano sensibili effetti trasversali quando sono presenti:
+- variazioni significative dei carichi agenti su un travetto rispetto a quelli contigui;
+- variazioni non trascurabili di rigidezza tra elementi contigui;
+
+Il primo caso si ha in presenza di:
+- tramezzature di peso notevole
+- variazioni sensibili di carichi applicati su zone contigue di solaio dovute ad esempio a differenti destinazioni d'uso
+
+Il secondo caso si presenta qualora:
+- solai contigui abbiano differenti luci libere di inflessione o diverso funzionamento statico
+- siano presenti nel solaio brusche variazioni di altezza come ad esempio in presenza di zone ribassate
+- i travetti del solaio siano paralleli ad elementi dotati di notevole rigidezza
+- i travetti siano paralleli ad una parete in c.a.
+
+In presenza di tali situazioni è opportuno prevedere i seguenti accorgimenti:
+- aumento delle armature trasversali di ripartizione
+- predisposizione di travetti ripartitori adeguatamente armati
+- aggiunta di armature superiori disposte ortogonalmente alla tessitura
+- aumento delle armature longitudinali dei travetti posizionati nella zona di transizione
+- predisposizione di travetti supplementari di rinforzo nelle zone interessate.
+
+ [Immagine35]
+
+ 
